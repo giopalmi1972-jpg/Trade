@@ -1,0 +1,7 @@
+telebot
+yfinance
+pandas
+ta
+tensorflow
+transformers
+requests
